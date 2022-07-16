@@ -1,0 +1,59 @@
+body{
+
+  font-family: Courier New;
+  font-size: 18px;
+  margin: 2% 5% 5% 5%;
+
+}
+
+form{
+  text-align: center;
+}
+table, th, td {
+  border: 1px solid #002366;
+  border-collapse: collapse;
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+}
+th{
+  background-color: #77aad9;
+  border-color: white;
+  border-bottom: #002366;
+}
+
+h1{
+  text-align: center;
+  color: #32435f;
+  font-size: 40px;
+  letter-spacing: 4px;
+  font-weight: normal;
+}
+.back{
+  font-size: 20px;
+  text-decoration: none;
+  letter-spacing: 2px;
+  text-align: center;
+  color: #32435f;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  margin-left: 7%;
+}
+
+h4{
+  text-align: center;
+}
+
+.back:hover{
+  text-decoration: none;
+}
+
+.searchbox{
+  width: 400px;
+  height: 35px;
+  border-radius: 10px;
+  margin-bottom: 3px;
+}
+
+.searchbox{
+  box-shadow: 0 0 10px #77aad9;
+}

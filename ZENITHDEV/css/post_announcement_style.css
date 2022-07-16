@@ -1,0 +1,76 @@
+body{
+  font-family: Courier New;
+}
+.contents{
+  text-align: center;
+}
+textarea{
+  border: solid 3px #77aad9;
+  border-radius: 10px;
+}
+
+textarea:focus{
+  outline: none;
+  border-radius: 10px;
+  outline: none;
+  border-color: #77aad9;
+  box-shadow: 0 0 10px #b88749;
+}
+
+input{
+  color:white;
+  background: black;
+  width: 150px;
+  font-size: 23px;
+  letter-spacing: 2px;
+  border-color: #77aad9;
+}
+
+
+
+a{
+  text-align: left;
+  align-items: baseline;
+  font-size: 20px;
+  text-decoration: none;
+  letter-spacing: 2px;
+  color: #32435f;
+  margin-top: 2%;
+  margin-left: 5%;
+  padding-bottom: 0;
+}
+
+.home:hover{
+  text-decoration: none
+}
+
+
+table{
+  margin-left:auto;
+  margin-right:auto;
+
+}
+
+td{
+  border-radius: 10px;
+  width: 150px;
+  text-align: center;
+}
+
+table tr td{
+  border: solid 1px;
+}
+
+.date{
+  color:#b88749;
+  border: none;
+  background-color: #191919;
+  border-color: none;
+}
+
+.previous{
+  color: white;
+  background: #77aad9;
+  margin-left: 20%;
+  margin-right: 20%;
+}

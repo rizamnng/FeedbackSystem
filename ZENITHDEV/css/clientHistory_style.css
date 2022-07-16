@@ -1,0 +1,37 @@
+body{
+  font-family: Courier New;
+  margin-top: 1.5%;
+}
+td{
+  width: 20%;
+}
+table{
+  width: 50%;
+  margin: auto;
+  margin-top: 2%;
+  text-align: center;
+  border: 2px solid black;
+  -webkit-border-radius:10px;
+    border-radius: 10px ;
+    border-collapse: separate;
+  background: white;
+  box-shadow: 0 0 10px #fb8500;
+}
+
+.top{
+  background-color: black;
+  color: white;
+
+}
+
+h1{
+  text-align: center;
+}
+.upper{
+  border-bottom: solid 2px black;
+}
+a{
+  font-size: 22px;
+  margin-left: 10%;
+  padding-top: 2%;
+}

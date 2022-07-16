@@ -1,0 +1,50 @@
+body{
+  font-family: Courier New;
+}
+
+table tr td {
+  border: solid 1px #77aad9;
+}
+th{
+  border: solid 1px #77aad9;
+  font-size: 22px;
+  background: #77aad9;
+  color: black;
+  letter-spacing: 2px;
+  font-weight:700;
+}
+
+td{
+  color: black
+}
+
+table{
+  width: 80%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input{
+  background-color: #b88749;
+  color:white;
+  margin-top: 10%;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.home{
+
+  font-size: 20px;
+  text-decoration: none;
+  letter-spacing: 2px;
+  text-align: left;
+  color: #32435f;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  margin-left: 5%;
+}
+
+.home:hover{
+  text-decoration: none;
+}

@@ -1,0 +1,55 @@
+body{
+  font-family: Courier New;
+  margin-top: 1.5%;
+}
+td{
+  width: 20%;
+  color:black;
+}
+table{
+  width: 50%;
+  margin: auto;
+  margin-top: 2%;
+  text-align: center;
+  border: 2px solid black;
+  -webkit-border-radius:10px;
+    border-radius: 10px ;
+    border-collapse: separate;
+  background: white;
+  box-shadow: 0 0 10px #77aad9;
+}
+
+.top{
+  background-color: #191919;
+  color: white;
+
+}
+
+h1{
+  text-align: center;
+  letter-spacing: 2px;
+}
+.upper{
+  border-bottom: solid 2px black;
+}
+a{
+  font-size: 22px;
+  margin-left: 10%;
+  padding-top: 2%;
+}
+a:hover{
+  text-decoration: none;
+}
+
+input{
+  width: 25%;
+  margin-left: 60%;
+  background: #fb8500;
+}
+
+h2{
+  margin-left: 20%;
+  text-decoration: underline 2px ;
+  letter-spacing: 2px;
+  text-shadow: 0 0 10px #fb8500;
+}

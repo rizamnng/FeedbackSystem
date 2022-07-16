@@ -1,0 +1,72 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header{
+  padding: 20px;
+}
+
+body{
+  font-family: Courier New;
+}
+
+.content{
+  text-align: center;
+}
+#pic{
+  height: 150px;
+  width: 150px;
+}
+
+.profile{
+  height: 70px;
+  width: 70px;
+  text-align: right;
+  margin-left: 80%;
+}
+
+.profile2{
+  text-align: right;
+}
+
+#out{
+  text-align: left;
+  font-family: Courier;
+}
+.button{
+  text-align: center;
+  font-family: Courier;
+  color: white;
+  background-color: black;
+  font-size: 20px;
+  border: solid 2px;
+  padding: 5px 20px 5px 20px;
+  border-radius: 10px;
+}
+.button:hover{
+  text-decoration: none;
+  color: white;
+}
+.logout{
+  text-align: left;
+  font-size: 20px;
+  margin-left: 10%;
+  margin-right: 65%;
+}
+
+nav{
+  display: inline-block;
+}
+h2{
+  font-size: 40px
+}
+h1{
+  font-size: 50px;
+  background-color: #77aad9;
+  color: white;
+  margin-left: 24%;
+  margin-right: 24%;
+}
+p{
+  font-size: 20px;
+}

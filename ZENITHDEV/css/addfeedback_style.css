@@ -1,0 +1,106 @@
+*{
+  font-family: Courier New;
+  padding: 0;
+  margin: 0;
+}
+a{
+  text-align: left;
+  font-size: 20px;
+  margin-left: 15%;
+  margin-top: 2%;
+  letter-spacing: 2px;
+}
+a:hover{
+  text-decoration: none;
+}
+body{
+	display: flex;
+
+	flex-direction: column;
+}
+
+
+
+h1{
+  font-size: 40px;
+  text-align: center;
+  margin-top: 2%;
+  text-decoration: underline 1px;
+}
+p{
+  font-size: 20px;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 30px;
+}
+
+.submit{
+  	background: black;
+  	padding: 10px 20px;
+  	color: #fff;
+  	border-radius: 10px;
+
+  	border: none;
+  	font-size: 18px;
+
+    margin-bottom: 50px;
+  }
+.submit:hover{
+  	background: white;
+    color: black;
+}
+
+
+
+label{
+  text-align: left;
+  color: #fff;
+  font-size: 18px;
+  margin:20px;
+
+}
+form{
+  border-radius: 20px;
+  background: linear-gradient(to left, #fb8500 ,black);
+  width: 500px;
+  margin: auto;
+  padding: 4px;
+  padding-bottom: 30px;
+
+}
+form h2{
+  font-size: 22px;
+  color:white;
+  text-align: center;
+}
+
+
+.feedback{
+  height: 420px;
+  width: 900px;
+  display: inline-block;
+  text-align: center;
+}
+.feedback h2{
+  margin: 25px;
+}
+textarea{
+  height: 200px;
+  width: 700px;
+  border: 4px solid black;
+  font-size: 18px;
+  border-radius: 10px;
+}
+input[type="radio"]{
+  height: 20px;
+  width: 20px;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+.sub{
+  background: #fb8500;
+  margin-top: 70px;
+}
